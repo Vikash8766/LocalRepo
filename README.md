@@ -25,3 +25,8 @@ way1
 way2
 
 create a PR(pull request)
+
+
+Pull Request
+
+-- it tells you tell others about changes you've pushed to a branch in a repository on githuib.
